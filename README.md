@@ -21,4 +21,4 @@ route information parser (book route information parser) and a custom data type
 
 On mobile phone, the screenshots are:
 
-<img src="./images/home-phone.png" width=250/> ![](./images/detail-phone.png =x250)
+<img src="./images/home-phone.png" width=250/>     <img src="./images/detail-phone.png" width=250/> 
