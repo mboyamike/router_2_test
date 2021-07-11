@@ -11,3 +11,14 @@ a detail page, which is just the title of the book at the center
 of the page. Finally, it has an Unknown page that is shown
 when a page is not found - the infamous 404 page.
 
+The navigation folder contains all the navigation logic. Using Flutter 2.0's
+declarative approach, it contains the router delegate (book router delegate), 
+route information parser (book route information parser) and a custom data type 
+(book route path). 
+
+
+## Screenshots
+
+On mobile phone, the screenshots are:
+
+![](./images/home-phone.png =250x) ![](./images/detail-phone.png =250x)
